@@ -448,8 +448,7 @@ class Main:
 			print("\033[1;32m WELCOME TO SABBIR  HACKINGS TOOL🔥")
 			time.sleep(3.0)
 			os.system("clear")
-		 os.system("apt install espeak")
-os.system(' espeak -g 6 "hello usar welcome The sabbir world And Enjoy The Tools , bye guys"')
+		 
 		print(logo)
 		print(" [+]𝗠𝗘𝗡𝗨  𝗠𝗘𝗧𝗛𝗢𝗗")
 		print("\033[1;37m  🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹")
